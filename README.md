@@ -1,3 +1,4 @@
+[![chom](https://gankaolu.oss-cn-huhehaote.aliyuncs.com/img/chom.jpg)](https://github.com/zwq652997/chom)
 # chom
 [![npm](https://img.shields.io/npm/v/chom.svg)](https://www.npmjs.com/package/chom) 
 [![LICENSE MIT](https://img.shields.io/npm/l/chom.svg)](https://www.npmjs.com/package/chom) 
